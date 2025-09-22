@@ -71,5 +71,5 @@ Better responsive positioning of multiple elements
 
 ## Author
 
-- Website - [DAVID OBENG ADJEI](https://www.your-site.com)
+- Website - [DAVID OBENG ADJEI](https://davidobeng200.github.io/blog-preview-card-main/)
 - Frontend Mentor - [@davidobeng200](https://www.frontendmentor.io/profile/davidobeng200)
