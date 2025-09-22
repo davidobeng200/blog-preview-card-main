@@ -23,7 +23,7 @@
 ### Links
 
 - Solution URL: [Github Repository](https://github.com/davidobeng200/blog-preview-card-main)
-- Live Site URL: [Git Pages](https://your-live-site-url.com)
+- Live Site URL: [Git Pages](https://davidobeng200.github.io/blog-preview-card-main/)
 
 ## My process
 
